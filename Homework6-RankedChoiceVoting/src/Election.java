@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 /**
- * A class that runs a ranked choice vote election
+ * A class that runs a ranked choice vote election - testing homework stuff
  * 
  * @author Gemma Joy Bertain and Ben Heck
  * @version 11.9.2023
